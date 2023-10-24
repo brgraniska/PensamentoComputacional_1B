@@ -1,16 +1,16 @@
 body{
-    background-color: rgb(250, 210, 222);
+    background-color: rgb(247, 203, 192);
 }
 
 #titulo {
     font-size: 30px;
     text-align: center;
-    color: rgb(233, 122, 159);
+    color: rgb(224, 133, 110);
 
 }
 .text0 {
     text-align: center;
-    color: black;
+    color: rgb(175, 55, 55);
     font-size: 20px;
     
 
