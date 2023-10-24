@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(250, 210, 222);
+}
+
+#titulo {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(233, 122, 159);
+
+}
+.text0 {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    
+
+}
